@@ -1,3 +1,4 @@
+# 해당 프로젝트의 서개, 설치방법, 레퍼런스 등에 대한 설명
 # 사이드프로젝트(bistSmartLms)를 위한 리액트 학습용.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
